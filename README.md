@@ -1,4 +1,4 @@
-#Tugas Kecil II: Eksplorasi scikit-learn pada Jupyter Notebook
+# Tugas Kecil II: Eksplorasi scikit-learn pada Jupyter Notebook
 
 25 Oktober 2017
 
@@ -8,7 +8,7 @@ Jupyter Notebook (http://jupyter.org/ ) memudahkan kita untuk membuat dan berbag
 
 1. Lakukan eksplorasi scikit learn pada Jupiter Netbook dan bacalah dokumentasinya: https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
 
-http://scikit-learn.org/stable/documentation.html  
+> http://scikit-learn.org/stable/documentation.html  
 
 2. Tulislah script dalam bahasa python pada satu notebook untuk melakukan task berikut ini:
 
